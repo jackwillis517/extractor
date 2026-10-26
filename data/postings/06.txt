@@ -1,0 +1,49 @@
+DevSecOps Engineer
+GloComms
+•
+New York, NY
+•
+$170,000 - $230,000 a year
+Apply now
+
+
+Job details
+$170,000 - $230,000 a year
+Full-time
+New York, NY
+Full job description
+Glocomms is partnering with a well-established investment organization that is seeking a DevSecOps Engineer to help secure and automate cloud infrastructure across AWS and Azure environments. This role is ideal for someone who enjoys combining cloud engineering, security, automation, and platform architecture in a highly technical environment.
+
+Responsibilities
+Design, implement, and secure cloud infrastructure in AWS and Azure
+Build and maintain Infrastructure as Code using Terraform
+Develop and enhance CI/CD pipelines with integrated security controls
+Secure Kubernetes environments and containerized applications
+Implement cloud security best practices across networking, identity, and data protection
+Manage vulnerability remediation and security monitoring initiatives
+Support software supply chain security efforts, including artifact management and code security
+Collaborate with engineering teams to integrate security throughout the development lifecycle
+Improve automation, reliability, and overall platform security
+Required Qualifications
+7+ years of experience in DevSecOps, Cloud Engineering, Platform Engineering, or Cloud Security
+Strong hands-on experience with AWS and Azure
+Expert-level Terraform experience
+Experience building and securing CI/CD pipelines
+Strong Kubernetes security knowledge
+Experience with cloud security tooling and vulnerability management
+Proficiency with Python, Bash, and/or PowerShell
+Strong Linux administration background
+Experience implementing cloud governance and security controls
+Preferred Qualifications
+Experience with CloudFormation or Bicep
+Knowledge of Policy-as-Code frameworks
+Familiarity with artifact repositories and software supply chain security
+Experience securing AI/LLM-based applications
+Understanding of modern application security principles and secure development practices
+What They're Looking For
+Strong technical depth across cloud, infrastructure, and security
+Ability to work in a hands-on engineering role
+Experience operating in complex production environments
+Excellent communication and collaboration skills
+A proactive approach to automation, security, and continuous improvement
+Please note: Sponsorship is not available for this position.

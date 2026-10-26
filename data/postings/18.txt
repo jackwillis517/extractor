@@ -1,0 +1,78 @@
+Software Engineer - Python (Robotics & Computer Vision)
+Houston, TX • On-site
+
+
+1-Click Apply
+
+
+
+Advanced Robotics Group, LLC
+ • Internet and IT • 
+11 - 50 employees
+Learn more about Advanced Robotics Group, LLC
+Full-time
+
+Medical, Vision, Life, PTO
+
+Posted 16 days ago
+
+Job description
+Software Engineer – Python (Robotics & Computer Vision)
+
+Advanced Robotics Group is seeking highly skilled Software Engineers - Python to join a small, high-performing team building autonomous robotics systems, computer vision solutions, and large-scale data platforms.
+
+We are a deep-tech robotics company building industrial, fully autonomous systems designed to operate in harsh, real-world environments. Alongside our robotics platforms, we are developing a proprietary big data and analytics system that processes hundreds of terabytes of data to generate actionable insights.
+
+Over the past decade, we have solved complex robotics and analytics challenges considered out of reach by much of the industry. We are now scaling our technology and preparing for global deployment.
+
+If you’re interested in solving technically complex problems at the intersection of robotics, AI, and large-scale data systems—you’ll fit right in.
+
+Why Join Us
+
+Work on cutting-edge robotics and AI systems
+Solve real-world, high-impact engineering problems
+Generous compensation including stock options, plus full medical, vision, and disability coverage
+Collaborative, high-performance engineering culture
+Modern R&D facility (14,000+ sq ft) in Houston
+Daily Team lunches and stocked kitchen provided
+Key Responsibilities
+
+You will work on systems that directly impact real-world operations and safety.
+Build and optimize data pipelines that process large-scale sensor datasets
+Improve test coverage, reliability, and CI/CD pipelines across the codebase
+Reduce manual intervention in data processing pipelines
+Build and maintain curated datasets for validation, benchmarking and regression testing
+Refactor research/prototype code into robust, production-quality modules
+Develop and optimize Python-based data pipelines and analytics systems
+Maintain and productionize computer vision and robotics pipelines
+Build data visualizations and internal tools for engineering workflows
+Collaborate with robotics engineers, data scientists, and software developers
+Design and implement robust, scalable systems for real-world deployment
+Contribute to scalable, production-grade software systems
+Establish and enforce software engineering best practices (typing, linting, testing and code review)
+Required Qualifications
+
+BS/MS in Computer Science, Engineering, Robotics, or related field
+3+ years of professional Python development experience
+Experience with Python data science stack (NumPy, Pandas, SciPy, OpenCV, etc.)
+Strong understanding of software engineering best practices (Git, testing, debugging)
+Experience with containerized development environments (Docker or similar)
+Comfort with static type checking and strict linting (Pyright, Ruff, or similar)
+Experience refactoring or productionizing research/prototype code
+Experience working with large-scale datasets or data processing systems
+Ability to work independently on open-ended, complex engineering problems
+Strong attention to detail and commitment to high-quality code
+Excellent communication and collaboration skills
+High level of professional integrity and confidentiality
+Preferred Qualifications
+
+Experience with CI/CD pipelines and automated testing
+Experience with computer vision (OpenCV, image processing, ML models)
+Familiarity with ROS or robotics sensor data
+Experience with columnar data formats (Parquet), embedded analytics databases (DuckDB), distributed compute (Ray)
+Experience with autonomous systems or robotics
+Experience building internal developer tools or workflow automation
+Familiarity with Python bindings to compiled languages (nanobind, Pyo3)
+Knowledge of APIs, backend systems, or web technologies
+Company Description
+Due to the confidential nature of our activities, we aren’t able to share specifics with you now but know that these robotics solutions will have a significant impact on both safety and the environment, thus making the world better.

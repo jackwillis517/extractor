@@ -1,0 +1,1 @@
+Extract job info from this text, ensure description is a description of the job not of the company, salary or location 

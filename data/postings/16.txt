@@ -1,0 +1,56 @@
+
+Mid Level Onsite Python Developer with CDE Experience
+Bethesda, MD
+
+
+1-Click Apply
+
+
+
+Futrend Technology, Inc.
+ • IT Services • 
+51 - 200 employees
+Learn more about Futrend Technology, Inc.
+$90K - $110K/hr
+
+Full-time
+
+Re-posted 28 days ago
+
+Job description
+Mid Level Onsite Python Developer with CDE Experience
+About Futrend Technology, Inc.
+Futrend Technology, Inc. is a forward-thinking business and IT solutions provider supporting mission-critical federal programs. Our core practices include Healthcare IT, Federal Financial Management, and Grants Management. We specialize in enterprise-wide implementations, real-time system integration, and modernization initiatives using industry best practices and emerging technologies.
+Our culture is rooted in integrity, excellence, collaboration, and continuous improvement. We actively invest in our people through professional development, modern tools, and strong team support. Futrend offers competitive compensation and a comprehensive benefits package.
+Position Overview
+We are seeking a Mid-Level Full Stack Software Engineer to support a high-visibility federal client. The ideal candidate is a versatile and independent technologist with strong problem-solving abilities, experience working across complex codebases, and the ability to contribute throughout the full software development lifecycle.
+You will work in a collaborative Agile environment, contributing to system enhancements, application development, data integration activities, and modernization efforts.
+Key Responsibilities
+Design, develop, test, and maintain full‑stack applications in support of mission‑critical federal systems.
+Work across front‑end and back‑end components, ensuring seamless integration and performant code.
+Analyze requirements, propose technical solutions, and deliver enhancements with minimal supervision.
+Collaborate with cross‑functional teams—including developers, analysts, architects, and QA—to support high‑quality software delivery.
+Contribute to code reviews, design discussions, and architectural decisions.
+Support data workflows, integration processes, and system modernization efforts.
+Troubleshoot issues across the stack and provide timely resolution.
+Stay current with modern development practices, frameworks, and technologies.
+Core Qualifications (Required)
+5+ years of hands-on software application or systems development experience.
+Strong proficiency in both procedural and object‑oriented programming, including familiarity with common design patterns.
+Experience working within large, complex codebases spanning the full technology stack.
+Ability to complete assignments independently with minimal oversight.
+Strong communication skills and proven ability to collaborate effectively in team environments.
+A self‑driven learner with a commitment to staying current with emerging technologies.
+Preferred Qualifications
+Experience with modern web development technologies such as HTML, CSS, JavaScript, Web APIs, JSON, Angular or React.
+Experience with server‑side technologies such as TypeScript, Node.js, Express.js, Webpack, NPM, or equivalents.
+Familiarity with functional or event-driven programming (callbacks, streaming, reactive programming, Promises/Futures).
+Experience working in Linux environments, including shell programming.
+Working knowledge of Python and libraries such as NumPy, Pandas, or scikit‑learn.
+Experience with SQL, NoSQL (MongoDB), or Elasticsearch, and data pipelines or ETL processes.
+Familiarity with Common Data Elements (CDEs) or healthcare/medical terminologies.
+Knowledge of Kubernetes or other container orchestration platforms.
+Experience with AWS or other cloud platforms, including cloud‑agnostic architectures.
+
+Compensation details: 90000-110000 Hourly Wage
+

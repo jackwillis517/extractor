@@ -1,0 +1,71 @@
+Marble company logo
+Marble
+Actively Hiring
+Marble is building the AI native platform to fix the youth mental health crisis
+11-50 Employees
+Growing fast
+Share
+⋮
+ Follow
+Overview
+People
+Culture and benefits
+Funding
+Jobs
+13
+AI Engineer at Marble
+$150k – $200k
+Posted 1 month ago
+Save
+Apply
+About Marble
+Marble is fixing the youth mental health crisis by redefining what mental healthcare looks like in the AI era.
+
+Last year, 1 in 10 teens attempted suicide. At the heart of this crisis is a severe lack of access to effective care - when kids & families can't get the help they need, problems compound and preventable tragedies follow.
+
+We're fixing that by building the AI-native platform that provides affordable & timely access to truly effective care. Our platform:
+
+Brings together guardians, schools, therapists & insurers to collaborate together
+Has AI powered products for each of these stakeholders to surface the right info & give them the tools to be effective
+Extends the reach of care to support kids 24/7 through our patient companion, "Marty"
+We're an early-stage, fast-moving team. The people who join now will shape who we are & who we become, not just what we build but how we build.
+
+About the Role
+This is an early AI generalist role where you'll own truly life-changing products end-to-end. You'll work across an AI-first platform, whether that's building the school-facing product that connects students to care, the therapist product that makes clinicians more effective, Marty (our AI-powered patient companion), the revenue cycle management systems, or the internal platform & tooling that all of this is built on.
+
+You'll get to know and deeply understand our end users, and you'll partner directly with product, operations, growth, and clinical teams to ship experiences that expand access to care and elevate its quality. You'll bring strong opinions on what to build, raise the engineering bar, and help define what a thoughtful, AI-native engineering culture looks like at an early-stage company.
+
+This role is hybrid, with three days per week in our SoHo, New York City office.
+
+What You'll Do
+Build and iterate on Marble's core product surfaces: the school-facing product, therapist platform, Marty (our AI patient companion), payer systems, and internal tooling
+Own features end-to-end — from discovery and execution through rollout, measurement, and iteration
+Raise the bar on AI-native ways of working: better tooling, better workflows, and thoughtfully integrated AI features for users and internal teams
+Evolve the platform that underpins our product: the AI foundations, event-driven workflows, observability, pragmatic infrastructure, etc.
+Create internal tools and automation that reduce operational load and help the team move faster with fewer mistakes
+Write clean, maintainable code, improve patterns, and push for simplicity and speed
+Collaborate with ops, growth, and clinical partners to understand real-world constraints and translate them into great product
+Mentor others and help build a strong, thoughtful engineering culture
+Who You Are
+2+ years of software engineering experience, with a track record of solving hard problems with code
+Prior startup experience or strong desire to work at an early stage company; comfortable in a high-autonomy, high-ownership environment
+AI obsessed and constantly looking to leverage the newest AI tool or workflow
+Based in New York and able to work from our SoHo office 3+ days per week
+Mission-driven and energized by solving a
+Bonus:
+
+Prior experience in health tech
+Experience with Next.js
+Experience with platform infrastructure — event-driven systems, internal tooling, data pipelines, or cloud infrastructure (AWS, CI/CD, Terraform)
+Experience with design systems, accessibility, or frontend performance optimization
+Why Marble
+Direct impact on a critical & meaningful problem, where you see that impact first-hand on a daily basis
+Greenfield opportunity to take ownership of & build something from the ground up
+Small & experienced team that moves fast, has fun and has a culture of growth & feedback
+Strong equity in an early stage company that's on track to become a unicorn
+Compensation
+Marble offers competitive compensation for an early engineering team member. Compensation includes a base salary, strong equity, and full benefits.
+
+Base salary range:
+
+$150K – $200K

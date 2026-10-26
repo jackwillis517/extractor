@@ -1,0 +1,30 @@
+Extract the invoice below into JSON. Follow these rules for each field:
+- invoice_number: the invoice number exactly as printed, without labels, brackets or "#".
+- vendor: the name of the business that issued the invoice. customer: the name of the business being billed. Names only, no addresses.
+- invoice_date / due_date: YYYY-MM-DD.
+- currency: the 3-letter ISO code only (USD, EUR, GBP, ...).
+- subtotal, discount, tax, total: plain numbers. discount is positive. tax is the money amount, not the rate. Use 0 when absent.
+- line_items: EVERY row, in order, from all pages. Never skip or invent rows.
+
+Example input:
+RECHNUNG / INVOICE  Müller GmbH
+Kunde / Customer: Hansen AG
+Rechnungsnr.: RE-2026-00042   Rechnungsdatum: 03.02.2026   Fällig am: 17.02.2026
+1  Laptop stand  2  1.249,00 €  2.498,00 €
+2  Setup (Week 1)  3  85,00 €  255,00 €
+Zwischensumme / Subtotal  2.753,00 €
+Rabatt / Discount  -53,00 €
+MwSt. / VAT 19%  513,00 €
+Gesamtbetrag / Total  3.213,00 €
+
+Example output:
+{"invoice_number": "RE-2026-00042", "vendor": "Müller GmbH", "customer": "Hansen AG",
+ "invoice_date": "2026-02-03", "due_date": "2026-02-17", "currency": "EUR",
+ "subtotal": 2753.0, "discount": 53.0, "tax": 513.0, "total": 3213.0,
+ "line_items": [
+  {"description": "Laptop stand", "quantity": 2, "unit_price": 1249.0, "amount": 2498.0},
+  {"description": "Setup (Week 1)", "quantity": 3, "unit_price": 85.0, "amount": 255.0}]}
+
+Before answering, check your work: the line item amounts must add up to subtotal, and subtotal - discount + tax must equal total. If they don't, you missed or misread a row, so look again.
+
+Invoice:

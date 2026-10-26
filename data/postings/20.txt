@@ -1,0 +1,146 @@
+Senior Python Developer
+Falls Church, VA • On-site
+
+Apply
+
+
+
+Leidos
+ • IT Services • 
+10,000+ employees
+Learn more about Leidos
+$131K - $237K/yr
+
+Full-time
+
+Medical, Retirement, PTO
+
+Re-posted 10 days ago
+
+Leidos rating
+Powered by real frontline workers on
+
+8.3
+
+Based on 154 frontline employees who took The Breakroom Quiz
+
+81st of 486 rated business services
+
+View more about working here
+Job description
+Description
+
+Who We Are:
+Kudu Dynamics is a Leidos owned company, forged out of a decade of experience in computer network operations and staffed with talent who have built, overseen, and enhanced capabilities throughout the entire USG arsenal. Our team of hackers, engineers, makers, and shakers have expe­rience spanning centuries of research, development, and oper­ations missions - across desktop, mobile, IoT, and embedded platforms. Kudu Dynamics is uniquely qualified to anticipate tomorrow’s threats and build the next of capabilities.
+
+Job Description:
+
+Join a growing team of security researchers and software engineers as we transition a state-of-the-art IoT security solution from the lab to multiple customers. This role sits at the intersection of helping end users, developing new features, and coordinating with technical partners to integrate new datasets and technologies. This position can be in Columbia, Maryland or Chantilly, Virginia.
+
+Minimum Requirements
+
+US Citizenship with TS/SCI and Counter-Intelligence Polygraph clearance
+
+Four years of experience in a Python Development role
+
+Bachelor’s degree in computer science, Software Engineering, Computer Engineering, or related field
+
+Expertise in scripting (Python, shell scripting)
+
+Expertise with Docker and container orchestration (Nomad, Kubernetes, Docker Swarm)
+
+Proficiency in software development in Python
+
+Experience with infrastructure as code (Terraform, Ansible)
+
+Experience delivering solutions on AWS
+
+Experience with system monitoring, introspection, and visualization technologies (Grafana, Prometheus, ELK stack)
+
+Experience with GitLab CI/CD
+
+Experience working in an Agile Scrum development team
+
+Database administration/development experience with PostgreSQL or similar
+
+Experience supporting full-stack solutions including RESTful API and Angular-based web UI
+
+Experience with networking protocols (TCP, UDP, HTTPS, TLS)
+
+Experience with user management and onboarding new users
+
+Experience with Twelve-Factor App methodology
+
+Linux system administration experience
+
+Self-starter requiring minimal supervision
+
+Intelligent, proactive, and driven to achieve results
+
+Specific Duties
+
+Troubleshoot and maintain the deployed application
+
+Onboard and managing new users
+
+Actively search for and screen new data sources and technologies to meet program demands
+
+Serve as primary point of contact for current and future data sources/technical partners
+
+Set up technical exchange meetings and gather/catalogue data information
+
+Understand security restrictions and access requirements
+
+Education Requirements
+
+BS/MS (BA/MA) in a technical degree field, plus a minimum of 4 years directly related experience
+
+In lieu of a degree, 10 years of directly related experience
+
+Technical Skills
+
+Expertise with Linux system administration
+
+Expertise in scripting (Bash, Python)
+
+Expertise with container build tools (Docker, Buildah)
+
+Expertise with Kubernetes (installing, managing, operating)
+
+Experience with Kubernetes CD tools (FluxCD, ArgoCD)
+
+Experience with infrastructure as code (Terraform, Helm)
+
+Experience delivering solutions on AWS/Azure
+
+Experience with system monitoring, introspection, and visualization technologies (Prometheus, Grafana, Loki, ELK stack)
+
+Experience with GitLab CI
+
+Experience with networking protocols (TCP, UDP, HTTPS, TLS); comfortable diagnosing and resolving networking issues
+
+If you're looking for comfort, keep scrolling. At Leidos, we outthink, outbuild, and outpace the status quo — because the mission demands it. We're not hiring followers. We're recruiting the ones who disrupt, provoke, and refuse to fail. Step 10 is ancient history. We're already at step 30 — and moving faster than anyone else dares.
+
+Original Posting:August 31, 2026
+For U.S. Positions: While subject to change based on business needs, Leidos reasonably anticipates that this job requisition will remain open for at least 3 days with an anticipated close date of no earlier than 3 days after the original posting date as listed above.
+
+Pay Range:Pay Range $131,300.00 - $237,350.00
+The Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.
+
+About Leidos
+
+Leidos is an industry and technology leader serving government and commercial customers with smarter, more efficient digital and mission innovations. Headquartered in Reston, Virginia, with 47,000 global employees, Leidos reported annual revenues of approximately $16.7 billion for the fiscal year ended January 3, 2025. For more information, visit www.Leidos.com.
+
+Pay and Benefits
+
+Pay and benefits are fundamental to any career decision. That's why we craft compensation packages that reflect the importance of the work we do for our customers. Employment benefits include competitive compensation, Health and Wellness programs, Income Protection, Paid Leave and Retirement. More details are available at www.leidos.com/careers/pay-benefits.
+
+Securing Your Data
+
+Beware of fake employment opportunities using Leidos’ name. Leidos will never ask you to provide payment-related information during any part of the employment application process (i.e., ask you for money), nor will Leidos ever advance money as part of the hiring process (i.e., send you a check or money order before doing any work). Further, Leidos will only communicate with you through emails that are generated by the Leidos.com automated system – never from free commercial services (e.g., Gmail, Yahoo, Hotmail) or via WhatsApp, Telegram, etc. If you received an email purporting to be from Leidos that asks for payment-related information or any other personal information (e.g., about you or your previous employer), and you are concerned about its legitimacy, please make us aware immediately by emailing us at LeidosCareersFraud@leidos.com.
+
+If you believe you are the victim of a scam, contact your local law enforcement and report the incident to the U.S. Federal Trade Commission.
+
+Commitment to Non-Discrimination
+
+All qualified applicants will receive consideration for employment without regard to sex, race, ethnicity, age, national origin, citizenship, religion, physical or mental disability, medical condition, genetic information, pregnancy, family structure, marital status, ancestry, domestic partner status, sexual orientation, gender identity or expression, veteran or military status, or any other basis prohibited by law. Leidos will also consider for employment qualified applicants with criminal histories consistent with relevant laws.

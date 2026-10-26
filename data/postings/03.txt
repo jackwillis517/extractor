@@ -1,0 +1,62 @@
+Company logo for, Temu.
+Temu
+
+
+Software Engineer
+
+United States · 1 day ago · Over 100 applicants
+
+Promoted by hirer · No response insights available yet
+
+$100K/yr - $300K/yr
+Remote
+Full-time
+
+Easy Apply
+
+Save
+Your profile and resume match the required qualifications well
+
+
+
+Show match details
+
+BETA • Is this information helpful?
+
+
+People you can reach out to
+
+School alumni from The Johns Hopkins University
+
+Show all
+Meet the hiring team
+
+
+Alicia L. 
+
+• 3rd
+
+Talent Acquisition Partner @ Temu
+
+Job poster
+
+Message
+About the job
+Role Description: This is a full-time remote role for Software Engineer (Ads)
+Responsibilities
+Build and maintain API integrations with major advertising platforms (Google Ads, Bing Ads) for automated campaign management and creative asset synchronization.
+Develop scalable backend services to handle automated keyword management, categorization, and large-scale ad creation (including image handling).
+Design and maintain infrastructure for dynamic landing page rendering and real-time personalization at scale.
+Design data architectures that process large volumes of traffic data, enabling accurate A/B testing and performance tracking for various creative combinations.
+Optimize system performance to support real-time bid changes and high-concurrency requests.
+Work closely with the algorithm team to deploy and serve machine learning, large language models, and computer vision models in production.
+
+Qualifications
+Bachelor’s or Master’s degree in Computer Science, Engineering, or a related technical field.
+2+ years of software engineering experience, preferably building large-scale backend systems or data pipelines.
+Strong proficiency in at least one backend programming language (e.g., Java, C++, Go, or Python).
+Solid understanding of system design, distributed systems, and database architecture (SQL and NoSQL).
+Detail-oriented with strong problem-solving abilities and a focus on code quality.
+Excellent communication skills and the ability to work collaboratively within a cross-functional team.
+
+In addition, you may receive benefits depending on the nature of employment, job position, and work location. The benefits that generally apply to regular, full-time employees include:1. Medical, Dental, and Vision Insurance Coverage2. Paid Time Off (PTO)3. Paid Sick Leave (in accordance with applicable state and local laws)4. 403(k) PlanThe Company reserves the right to modify or change these benefit programs at any time, with or without notice, consistent with applicable law.

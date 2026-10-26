@@ -1,0 +1,6 @@
+file,invoice_number,vendor,customer,invoice_date,due_date,currency,subtotal,discount,tax,total,line_item_count,line_item_amounts,reconciles,mean,latency_s,tokens_in,tokens_out,tok_per_s,attempts,retried,errors,error
+inv_01.pdf,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.9523809523809523,0.9404761904761905,0.0,0.9148351648351648,270.9,6610,16764,61.9,2,True,"[""1 validation error for Invoice\n  Invalid JSON: EOF while parsing a value at line 1 column 0 [type=json_invalid, input_value='', input_type=str]\n    For further information visit https://errors.pydanti""]",
+inv_02.pdf,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,200.09,2938,12544,62.7,1,False,[],
+inv_03.pdf,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.8229166666666666,0.8229166666666666,0.0,0.8958333333333334,286.21,3837,17685,61.8,1,False,[],
+inv_04.pdf,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,False,[],Output failed validation after 1 attempts. Last error: unknown
+inv_05.pdf,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,False,[],Input text is empty

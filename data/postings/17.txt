@@ -1,0 +1,113 @@
+
+Lead engineer: Audience Growth, Sponsorship & Applied AI
+Austin, TX • Remote
+
+
+1-Click Apply
+
+
+
+LXN Solutions
+See more jobs at LXN Solutions
+$100K - $200K/yr
+
+Full-time
+
+Medical, Dental, Vision, Retirement, PTO
+
+Re-posted 14 days ago
+
+Job description
+Software engineering - Applied Growth, Monetization & AI Engineer
+
+Vertical Search, Intelligence and Digital Publishing
+
+
+
+We are building a large portfolio of focused digital properties for professional, geographic, institutional, and enthusiast audiences.
+
+
+
+This is a hands-on individual-contributor engineering role. It is not a senior-manager, director, VP, consultant, or strategy-only position. You will personally write code (Python, C#), agentic systems (Claude, Codex) and SQL, build tools and automations, instrument products, run analyses and experiments, and improve live systems.
+
+
+
+Required profile
+
+- You are currently a practicing applied engineer, growth engineer, data/product engineer, monetization engineer, ad-tech engineer, or comparable technical individual contributor.
+
+- You have spent at least the last three years doing hands-on production work in relevant areas—not merely managing, advising, or delegating it.
+
+- Python is mandatory. You must be able to build, test, maintain, and debug production-quality Python for analysis, APIs, automation, data pipelines, experimentation, and internal tools.
+
+- You must have recent, practical experience using Claude Code, Codex, or comparable agentic coding systems to build software. You know how to give agents useful tasks, inspect their output, test and debug it, maintain security and code quality, and take responsibility for what reaches production.
+
+- You have strong SQL and experience with Git, pull requests, testing, APIs, cloud systems, and a warehouse or analytical database such as BigQuery, Snowflake, ClickHouse, Redshift, or Postgres.
+
+- You can show systems you personally built or materially improved, the constraints involved, and the measurable result.
+
+What you will do
+
+- Build scalable SEO, structured-data, internal-linking, crawl, indexation, canonicalization, local-search, and performance systems across thousands of properties.
+
+- Build portfolio triage and launch systems that identify which properties to scale, improve, reposition, consolidate, pause, or retire.
+
+- Build and improve monetization across direct sales, sponsorships, newsletters, programmatic advertising, lead generation, directories, data products, research, events, and premium intelligence services.
+
+- Work directly with Google Ad Manager, header bidding, Prebid, SSPs, pricing rules, inventory taxonomy, forecasting, reporting, demand quality, and ad-operations QA.
+
+- Improve net revenue per session and contribution margin without sacrificing user experience, page speed, search health, advertiser quality, privacy, editorial independence, or brand safety.
+
+- Build the event, revenue, cost, inventory, advertiser, and user-behavior data layer; dashboards; quality controls; pricing and sales tools; and experiment-management tools.
+
+- Design and run sound experiments with randomization, holdouts, power analysis, causal measurement, decision thresholds, and rollback criteria.
+
+- Apply practical ML or optimization only when it creates real economic value: recommendations, registration prompts, ad layout, floor prices, demand paths, content promotion, sponsorship offers, and sales prioritization. Use shadow mode and staged deployment before broad automation.
+
+- Build reliable agentic workflows for research, classification, reporting, QA, metadata generation, structured-data validation, and sales preparation, with appropriate evaluation and human review.
+
+Technical strengths we need
+
+- Advanced SQL: analytical and optimized queries, cohorts, funnels, attribution, and data-quality checks.
+
+- Python, pandas/NumPy, and practical familiarity with statistical or ML tools such as scikit-learn, statsmodels, XGBoost, LightGBM, or PyTorch.
+
+- Working JavaScript or TypeScript knowledge for instrumentation, browser behavior, ad-tech integrations, or lightweight product work.
+
+- Sound practical statistics: experiments, regression, forecasting, causal inference, selection bias, and confounding. Experience with bandits, ranking, recommendations, or off-policy evaluation is valuable.
+
+- Publisher/ad-tech knowledge: Google Ad Manager, header bidding, Prebid, programmatic demand, floor strategies, viewability, invalid traffic, ads.txt, sellers.json, consent, tag management, Analytics, Search Console, and first-party data.
+
+- Good engineering judgment: recognize when a simple rule or A/B test beats custom ML; detect data leakage, drift, poor calibration, and unintended product or revenue effects.
+
+
+
+What success looks like
+
+
+
+Within a year, you will have built a trusted measurement and revenue model; a clear portfolio-opportunity system; scalable SEO, quality-control, experimentation, and monetization operations; measurable growth on selected properties; and improved qualified traffic, net revenue per thousand sessions, advertiser retention, and contribution margin.
+
+
+
+What we will ask you to demonstrate
+
+- A recent Python or SQL system you personally built and shipped.
+
+- Your real agentic development workflow using Claude Code, Codex, or a comparable system, including how you validate outputs.
+
+- A traffic, revenue, RPM, fill, viewability, retention, or margin gain you helped deliver.
+
+- An experiment or optimization you designed: hypothesis, measurement, result, and decision.
+
+- A failed technical, growth, or monetization initiative and how you diagnosed it.
+
+- How you would prioritize 1,000 low-traffic properties with limited capital over six months.
+
+
+
+How we work
+
+We value measurable outcomes, technical rigor, high-quality products, controlled experimentation, and durable economics. We do not value vanity traffic, indiscriminate AI-generated content, unexplained black-box tactics, or short-term revenue that weakens the product.
+
+

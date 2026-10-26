@@ -1,0 +1,50 @@
+Software Engineer
+Siemens
+•
+New York, NY • Hybrid work
+•
+$137,210 - $185,191 a year
+Apply on company site
+
+
+Job details
+$137,210 - $185,191 a year
+Full-time
+Hybrid work in New York, NY
+Full job description
+Here at Siemens, we take pride in enabling sustainable progress through technology. We do this through empowering customers by combining the real and digital worlds. Improving how we live, work, and move today and for the next generation! We know that the only way a business thrives is if our people are thriving. That’s why we always put our people first. Our global, diverse team would be happy to support you and challenge you to grow in new ways. Who knows where our shared journey will take you?
+
+We’re building intelligent products that bring generative AI into the physical world. As a Software Engineer, you will play a central role in developing the platforms, APIs, and systems that bring large language models and other generative technologies into real-world applications. Our systems span the software-hardware boundary, combining low-latency inference pipelines, robust cloud infrastructure, and tightly integrated product experiences. You’ll work closely with engineers and research team and convert ideas to well functioning code.
+
+This role blends product engineering with systems design and offers the opportunity to shape how users interact with AI, not just behind the scenes, but directly through the products they use.
+
+You’ll make an impact by:
+Design and build distributed services that are performant and maintainable
+Own projects end-to-end, from design to deployment and monitoring
+Collaborate with ML engineers, product managers, and infrastructure teams
+Participate in code reviews, design discussions, and technical deep dives
+Contribute to team standards and continuously improve system reliability and performance
+Technologies We Use
+Languages: Python, Go, TypeScript
+ML: PyTorch, HuggingFace, ONNX Runtime, LangChain
+Infrastructure: AWS, Kubernetes, Redis, Postgres, S3, Terraform
+DevOps & Observability: GitHub Actions, Datadog, Grafana, Prometheus
+We do not expect deep experience with every tool, but we are looking for engineers who have repeatedly solved difficult problems at scale, and who know how to make good technical decisions under uncertainty.
+
+You will win us over by having the following qualifications:
+Basic Qualifications
+3+ years of professional software development experience
+Experience building and operating backend systems or distributed services
+Proficiency in one or more programming languages such as Python, Go, or Java
+Strong understanding of data structures, algorithms, and system design
+Preferred Qualifications
+Experience working with machine learning pipelines or AI infrastructure
+Familiarity with cloud-native systems (e.g. Kubernetes, serverless, event-driven architectures)
+Ability to take a problem from design through to production independently
+Prior experience mentoring junior engineers or leading small technical efforts
+
+About the Team:
+We are an early-stage engineering team solving hard technical problems at the intersection of AI, systems, and real-world interaction. We operate with high autonomy, collaborate closely across functions, and maintain high technical standards. Software Engineers at our company are expected to lead by example, model engineering excellence, and shape both what we build and how we build it.
+
+Our Commitment to Equity and Inclusion in our Diverse Global Workforce:
+We value your unique identity and perspective. We are fully committed to providing equitable opportunities and building a workplace that reflects the diversity of society, while ensuring that we attract the best talent based on qualifications, skills, and experiences. We welcome you to bring your authentic self and transform the everyday with us.

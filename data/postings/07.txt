@@ -1,0 +1,83 @@
+The Prompt Academy
+Actively Hiring
+An education platform to help upskill in AI for the workforce
+Share
+Save
+Software Engineer
+$110k – $140k • No equity
+|
+Remote (
+Argentina • 
+Australia
++7
+)
+|2 years of exp
+|Full Time
+Reposted: 3 weeks ago• Recruiter recently active
+Hires remotely in
+Argentina - 
+Australia - 
+Brazil - 
+Canada - 
+China - 
+India - 
+Japan - 
+United States - 
+South Korea
+Remote Work Policy
+Remote only
+
+Company Location
+Los Angeles
+Visa Sponsorship
+Not Available
+
+Preferred Timezones
+Pacific Time
+Relocation
+Allowed
+Skills
+Python
+Node.js
+TypeScript
+React.js
+AWS
+GCP
+Next.Js
+LLM Frameworks (Langchain, Claude, LLamaIndex) RAG Technologies Embedding Models Vect
+About the job
+Company Description
+The Prompt Academy is hiring a Software Engineer to transform how people learn AI and technology skills. We're looking for a driven, product-minded, AI-first engineer who treats AI tools and automation as a default part of how they build — someone who can do the output of a much larger team by leaning on AI agents, code generation, and smart workflows. If you're excited to build a platform that teaches the world AI skills while using those same tools to scale your own impact, we'd love to hear from you!
+
+Role Description
+This is a full-time, Software Engineer role working remotely from anywhere, U.S. preferred. The Software Engineer will be responsible for designing, building, and scaling features across our learning and assessment platform, from frontend interfaces to backend services.
+
+Responsibilities include day-to-day development across the full stack, building and integrating AI-powered functionality, and supporting product initiatives from concept to launch. The role will also involve writing clean, well-tested code, maintaining the assessment and credentialing infrastructure, and collaborating closely with the broader product and design teams to drive user engagement and a high-quality experience.
+
+What You Will Do
+Use AI coding tools to design, build, and ship software faster and at higher quality
+Build and maintain automated workflows and agents that take manual, repetitive tasks off your plate
+Design, develop, and maintain features across the web application, from frontend interfaces to backend services
+Build and integrate AI-powered functionality, including LLM-based features, evaluations, and orchestration logic
+Develop and maintain the assessment and credentialing infrastructure that scores and verifies user proficiency
+Write clean, maintainable, and well-tested code, and participate in code reviews
+Contribute to technical decisions, including architecture, scoping, and prioritization
+Track and improve application performance, reliability, and quality
+Collaborate with product, design, and content teams in a fast-moving environment
+
+Qualifications
+1–3 years of experience in software engineering or a related role
+An AI-first mindset — you reach for AI tools by default to build faster, smarter, and at greater scale
+Hands-on experience using AI tools and building agents with ChatGPT, Claude, and Generative AI models for coding, research, and product work
+Experience building automated workflows and connecting tools to eliminate manual work
+Hands-on experience building and shipping full-stack web applications
+Strong skills with a modern web stack such as TypeScript, React, Next.js, Node.js, and PostgreSQL
+Solid understanding of building, testing, and maintaining production software
+Strong problem-solving skills and comfort working in a fast-paced environment
+
+Nice To Have
+Experience integrating LLM APIs into production applications a plus (prompt engineering, RAG, evaluations, streaming)
+Familiarity with B2B or B2C SaaS products a plus
+EdTech experience a plus
+Experience with real-time or interactive web technologies such as WebGL or Three.js a plus
+Strong organizational skills, attention to detail, and a proactive, test-and-learn mindset

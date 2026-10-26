@@ -1,0 +1,119 @@
+Software Engineer
+Credal
+•
+Brooklyn, NY
+•
+$190,000 - $250,000 a year
+Apply on company site
+
+
+Job details
+$190,000 - $250,000 a year
+Health insurance, Vision insurance, Dental insurance, Unlimited paid time off, Disability insurance
+Full-time
+Brooklyn, NY
+Full job description
+About us
+Our mission at Credal is to harness frontier AI for everyone building a better future.
+
+We accelerate the most complex, sophisticated operations of the most impactful institutions, while weaving security and governance into every part of our product. Our customers include the U.S. Dept of Health and Human Services, MongoDB, Comcast NBC Universal, Lattice, Wise (Transferwise), Checkr, and incident.io among others.
+
+We’ve raised over $10m to date with a ton of runway. You’ll join a team of Thoughtful Doers from places like Palantir, Cruise, Meta, Uber, and Google.
+
+Credal is in-person in our spacious NYC office with meals provided.
+
+About the role
+We’re looking for a founding web full-stack software engineer to help us build on our progress, with proven market demand from global enterprises, to a scalable, performant architecture while maintaining our industry leading security posture.
+
+What you’ll do:
+
+Own aspects of our stability, scalability and security as we onboard more customers and expand our product
+
+Ensure we can successfully sync billions of records into our data platform from our customers’ SaaS tools reliably
+
+Contribute to architecture, design decisions, and code and product quality strategy
+
+Engage directly with customers and our GTM team to discover and solve our customers’ most complex and bleeding edge problems
+
+Mentor junior engineers and continue raising our bar for engineering excellence
+
+Take end-to-end ownership of our core products, built on…
+
+Frontend: React, Typescript, NextJS, Tailwind
+
+Backend: Typescript, Temporal, NextJS, Gel/PostgreSQL
+
+AI/ML: OpenAI, Anthropic, Cohere, Gemini, Milvus/QDrant/MongoDB
+
+Cloud: AWS, Terraform, Helm, Kubernetes
+
+About you
+You might be a great fit if you’re a strong, versatile software engineer who enjoys working across the stack and solving whatever technical problems matter most. You’re comfortable working across frontend and backend—or bring particularly deep expertise in frontend engineering—and have strong software engineering fundamentals. You’re excited about Agentic AI / LLM applications, even if you haven’t worked directly with AI before.
+
+Eager to join our mission of bringing Frontier Intelligence to the industries and institutions that matter most to human welfare—e.g., healthcare, government, and financial infrastructure
+
+Coding comes naturally to you, you do it for fun, and you excel at it professionally
+
+4+ years building high-quality software, ideally in excellent engineering cultures
+
+Strong engineering fundamentals and the ability to reason about architecture, abstractions, performance, reliability, and complexity—not just specific frameworks or technologies
+
+Comfortable working across TypeScript, GraphQL, MongoDB, and Vue; experience with our exact stack is helpful but not required
+
+Experience helping engineering teams scale—not only by writing great code, but by creating abstractions, systems, tools, and processes that establish clear swim lanes and reduce complexity for other engineers
+
+Interested in Agentic AI, LLM applications, and emerging technologies. Experience with MCP or building AI agents is a plus, but not required
+
+You set a high bar for craft and execution, and you’re known as a creative, trusted, and resourceful teammate who elevates those around you
+
+High-ownership—you take projects, outcomes, and customer unlocks from an ambiguous starting point through to a clean finish
+
+Thrive in fast-paced environments, biasing toward action rather than waiting for someone else to tell you what to do or how to solve a problem
+
+Customer-focused—you care about customers’ challenges and ambitions and are energized by building technology that empowers people
+
+A doer of things—technical or otherwise—that people have told you were impossible or foolish
+
+Enjoy mentoring and accelerating people around you who are hungry to learn, regardless of their level of experience
+
+We encourage you to apply even if you don’t perfectly match this description but believe you would be a good fit with our values and culture. We embrace driven people who may not fit the mold or check every box.
+
+Benefits and work environment
+
+Opportunity to take ownership and accountability of major mission, business and technical outcomes from day one. Exercise your full capacity to create positive change in the world, rather than waiting for permission to advance to slightly less boring tickets or tasks.
+
+High quality health coverage, including great mental health benefits, for you and your immediate family. This includes comprehensive and HSA options.
+
+Industry-leading vision, dental, life, disability coverage.
+
+Regular team activities & offsite events (last year we went to Turks and Caicos for a hackathon week!)
+
+Unlimited PTO - and unlike some other companies, we're serious about you taking the time you need to recharge and be the best you can be! We also offer a guaranteed two weeks off during the last two weeks of December when the entire company goes on vacation!
+
+A generous housing subsidy for those who choose to live close to the office.
+
+Interview process
+
+Intro conversation with our leadership team (CEO, COO, CTO depending on the role).
+
+Virtual screen.
+
+Onsite to meet our team and CEO.
+
+References (we check references on everyone at Credal to make sure all your future coworkers are world class and great to be around).
+
+More about us
+
+We’ve built the industry’s highest ceiling and most secure Action & Agent building platform for sticky, custom AI workflows. Use cases span countless domains, including: KYC, anti-money laundering, healthcare regulation, climate standards setting, cybersecurity, sales, people, IT, and customer support.
+
+Cultural principles
+
+Team of 13 with 9 engineers.
+
+7-figure ARR.
+
+>100% NRR.
+
+Product docs, case studies, blog, podcast
+
+Compensation Range: $190K - $250K

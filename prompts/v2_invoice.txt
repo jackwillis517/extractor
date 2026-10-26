@@ -1,0 +1,11 @@
+Extract the invoice below into JSON. Follow these rules for each field:
+- invoice_number: the invoice number exactly as printed, without labels, brackets or "#".
+- vendor: the name of the business that issued the invoice. customer: the name of the business being billed. Names only, no addresses.
+- invoice_date / due_date: convert to YYYY-MM-DD (e.g. "06.09.2026" -> "2026-09-06", "September 5, 2026" -> "2026-09-05").
+- currency: the 3-letter ISO code only (USD, EUR, GBP, ...). "$" means USD, "€" means EUR, "£" means GBP.
+- subtotal, discount, tax, total: plain numbers with no currency symbols or thousands separators ("1.299,90 €" -> 1299.90).
+- discount: a positive number, even if it is printed as negative. Use 0 if there is none.
+- tax: the tax AMOUNT in money, not the percentage rate. Use 0 if there is none.
+- line_items: copy EVERY line item row in the order it appears, from all pages. Do not skip, merge or invent rows. amount = the line total as printed.
+
+Invoice:

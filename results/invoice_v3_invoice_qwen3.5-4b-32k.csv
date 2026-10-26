@@ -1,0 +1,6 @@
+file,invoice_number,vendor,customer,invoice_date,due_date,currency,subtotal,discount,tax,total,line_item_count,line_item_amounts,reconciles,mean,latency_s,tokens_in,tokens_out,tok_per_s,attempts,retried,errors,error
+inv_01.pdf,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,208.29,3579,12713,61.0,1,False,[],
+inv_02.pdf,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,False,[],Output failed validation after 1 attempts. Last error: unknown
+inv_03.pdf,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.07291666666666667,0.041666666666666664,0.0,0.7780448717948718,222.92,4150,13714,61.5,1,False,[],
+inv_04.pdf,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,False,[],Output failed validation after 1 attempts. Last error: unknown
+inv_05.pdf,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,False,[],Input text is empty

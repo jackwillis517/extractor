@@ -1,0 +1,21 @@
+file,title,company,location,is_remote,description,min_salary,max_salary,requirements,job_count,mean,latency_s,tokens_in,tokens_out,tok_per_s,error
+01.txt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,The output is incomplete due to a max_tokens length limit.
+02.txt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,The output is incomplete due to a max_tokens length limit.
+03.txt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,The output is incomplete due to a max_tokens length limit.
+04.txt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,The output is incomplete due to a max_tokens length limit.
+05.txt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,The output is incomplete due to a max_tokens length limit.
+06.txt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,The output is incomplete due to a max_tokens length limit.
+07.txt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,The output is incomplete due to a max_tokens length limit.
+08.txt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,The output is incomplete due to a max_tokens length limit.
+09.txt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,The output is incomplete due to a max_tokens length limit.
+10.txt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,The output is incomplete due to a max_tokens length limit.
+11.txt,1.0,1.0,1.0,1.0,0.5405405405405406,1.0,1.0,0.5625,1.0,0.9003378378378378,13.86,1268,2627,189.6,
+12.txt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,The output is incomplete due to a max_tokens length limit.
+13.txt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,The output is incomplete due to a max_tokens length limit.
+14.txt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,The output is incomplete due to a max_tokens length limit.
+15.txt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,The output is incomplete due to a max_tokens length limit.
+16.txt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,The output is incomplete due to a max_tokens length limit.
+17.txt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,The output is incomplete due to a max_tokens length limit.
+18.txt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,The output is incomplete due to a max_tokens length limit.
+19.txt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,The output is incomplete due to a max_tokens length limit.
+20.txt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,The output is incomplete due to a max_tokens length limit.

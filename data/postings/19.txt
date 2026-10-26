@@ -1,0 +1,68 @@
+
+Full Stack Developer React/ Java/ Python
+Middletown, NJ • On-site
+
+
+1-Click Apply
+
+
+
+Qaurs Techno Systems LLC
+See more jobs at Qaurs Techno Systems LLC
+$70K - $80K/yr
+
+Full-time
+
+Re-posted 21 days ago
+
+Job description
+About the Role:
+Join Qaurs Techno Systems LLC as a Java Full Stack Developer with Python Scripting and be part of an innovative team in Middletown Township, NJ. This role offers the opportunity to work on exciting projects that push the boundaries of technology and creativity.
+
+Job Summary
+We are seeking a strong Full Stack Developer with hands‑on experience in React.js, Java backend development, and Python scripting. The ideal candidate will work across UI development, backend services, and automation scripting to support enterprise‑level applications.
+Responsibilities
+Frontend (React)
+
+Develop responsive, interactive UI components using React.js, JSX, and TypeScript
+Implement state management using Redux / Context API
+Integrate REST APIs and handle asynchronous data flows
+Optimize UI performance and ensure cross‑browser compatibility
+Work with CSS frameworks such as Material UI, Bootstrap, Tailwind
+Backend (Java)
+
+Design and develop backend services using Java, Spring Boot, Microservices
+Build and maintain RESTful APIs
+Work with relational and NoSQL databases (MySQL, PostgreSQL, MongoDB, Oracle)
+Implement authentication, authorization, and security best practices
+Troubleshoot backend issues and perform root cause analysis
+Python Scripting
+
+Develop Python scripts for automation, ETL, data processing, and system integration
+Build utilities to support backend workflows
+Work with APIs, JSON, XML, and data transformation task
+General Responsibilities
+
+Write clean, scalable, maintainable code following best practices
+Participate in Agile ceremonies, sprint planning, and code reviews
+Collaborate with cross‑functional teams (QA, DevOps, Product Owners)
+Debug, troubleshoot, and optimize application performance
+Stay updated with modern frameworks, tools, and industry trends
+Required Skills
+
+7–10+ years of full‑stack development experience
+Strong expertise in React.js, JavaScript (ES6+), and TypeScript
+Deep understanding of React Hooks and component‑based architecture
+Strong backend experience with Java, Spring Boot, Microservices
+Proficiency in Python scripting for automation and backend utilities
+Experience with SQL/NoSQL databases
+Familiarity with Git, Jenkins, CI/CD pipelines
+Experience with Docker, Kubernetes, or cloud platforms (AWS/Azure) is a plus
+Strong debugging and problem‑solving skills
+Ability to work in Agile/Scrum teams
+Preferred Qualifications
+
+Experience in large enterprise environments (Telecom experience preferred)
+Knowledge of messaging systems like Kafka, RabbitMQ
+Experience with monitoring/logging tools (ELK, Splunk)
+Bachelor’s degree in Computer Science or related field

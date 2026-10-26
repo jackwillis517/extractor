@@ -1,0 +1,66 @@
+Apply on company site
+
+
+Job details
+$100,000 - $250,000 a year
+Full-time
+New York, NY
+Full job description
+Center for Data Science at NYU seeks a full-time software engineer position as part of its new initiative, Polymathic AI, Building Foundation Models for Science. Recent advances in machine learning, including Large Language Models and diffusion based generative models have driven significant advances in Artificial Intelligence. Polymathic AI seeks to leverage these ideas to develop the next generation of AI-powered scientific analysis tools, seeking more powerful and more interpretable models with broad applications to many scientific disciplines. Our group includes researchers from multiple scientific disciplines ranging from machine learning, to astrophysics, biology, neuroscience and quantum computing.
+
+The selected candidates will work closely with a group of computer scientists, domain scientists, and AI experts in developing software and leveraging large AI models to solve pressing scientific challenges. The hired engineer will have access to computational resources allowing training of large AI models. We offer an exciting multidisciplinary context for researching AI and its applications.
+
+The Software Engineer will report to Shirley Ho, Senior Research Scientist and is a full-time fixed term position with a duration of one year, with possible renewals. This position is based on site at the Center for Data Science at NYU.
+
+ESSENTIAL FUNCTIONS/RESPONSIBILITIES
+
+Develop, implement, maintain, and support software relevant to the initiative.
+Engage in research on foundation models for science
+Collaborate with other Software Engineers, Flatiron Research Fellows, Research Analysts.
+Lead and improve open-source software practices
+SPECIFIC FUNCTIONS/RESPONSIBILITIES
+
+In addition to the essential functions listed above, the applicant should also be able to undertake one of the two sets of functions specific to the two focus areas for this position:
+
+Research facing
+Develop and train large AI models for science
+Curate large datasets pertinent to the initiative
+Optimize model performance
+Deployment facing
+
+Packaging research codes into deployable units
+Developing and deploying end-user facing applications for AI models
+Maintain deployed services
+In compliance with NYC's Pay Transparency Act, the annual base salary range for this position is $100,000-$250,000.
+
+
+Minimum Qualifications
+
+Education
+
+B.S., M.S. or Ph.D. in machine learning, computer science, engineering or related technical discipline.
+Experience
+
+At least three years’ experience with software development in a research setting
+Expertise in developing and training large AI models.
+Proficiency in Python and either PyTorch, JAX, or Tensorflow
+Experience with HPC, GPU, or code profiling is required
+Knowledge of software engineering practices for working in groups, including software development life cycles, coding standards, code review, and version control
+Related Skills and Other Requirements
+
+Ability to collaborate on multidisciplinary research in a collegial environment
+Ability to lead, develop and contribute to software projects
+Effective communication, documentation, and user-support skills
+Ability to work both independently and collaboratively
+Technical and scientific curiosity
+Professional communication skills
+
+REQUIRED APPLICATION MATERIALS
+
+CV including possibly previous projects, software repositories, publications
+Description of previous research/engineering experience (not to exceed 2 pages, including figures).
+Three names for references
+
+For people in the EU, click here for information on your privacy rights under GDPR: www.nyu.edu/it/gdpr
+
+NYU is an Equal Opportunity Employer and is committed to a policy of equal treatment and opportunity in every aspect of its recruitment and hiring process without regard to age, alienage, caregiver status, childbirth, citizenship status, color, creed, disability, domestic violence victim status, ethnicity, familial status, gender and/or gender identity or expression, marital status, military status, national origin, parental status, partnership status, predisposing genetic characteristics, pregnancy, race, religion, reproductive health decision making, sex, sexual orientation, unemployment status, veteran status, or any other legally protected basis. All interested persons are encouraged to apply for vacant positions at all levels.

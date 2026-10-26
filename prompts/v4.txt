@@ -1,0 +1,11 @@
+Extract the job posting below into JSON. Follow these rules for each field:
+- title: the job title exactly as written at the top of the posting. Do not add the team, level or company.
+- company: the hiring company's full name as written in the posting. Do not shorten it or add recruiter names.
+- location: exactly one of "remote", "hybrid" or "onsite". City and address text does NOT go anywhere else.
+- is_remote: true only when location is "remote", otherwise false.
+- description: 1-2 sentences, taken from the posting, on what the person in this role will do day to day. Do NOT describe the company, its mission, benefits, salary, location, dates or how to apply.
+- min_salary / max_salary: the pay range exactly as stated, as whole numbers with "k" expanded ("$120k" -> 120000). Hourly rates stay hourly ("$25-30/hr" -> 25 and 30). Do not convert or multiply. If no pay is stated, use 0. Never guess.
+- requirements: the required and preferred qualifications (skills, years of experience, degrees), joined into one string.
+Return one job unless the posting clearly advertises several different roles.
+
+Job posting:
